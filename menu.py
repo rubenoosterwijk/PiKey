@@ -1,7 +1,7 @@
 # this file defines all the necessary 
 from metagame import *
 from backdrops import *
-from iomidi import *
+from pimidi import * #naam veranderd van io naar pi
 import pygame
 import config
 
